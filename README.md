@@ -1,5 +1,5 @@
 # movieLibrary
-A Movie Library website using https://www.themoviedb.org/
+A Movie Library website using https://www.themoviedb.org API.
  
 Built using react, typescript, redux, react-bootstrap, vite, and more.
 
